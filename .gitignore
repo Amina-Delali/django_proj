@@ -1,0 +1,15 @@
+.vercel
+*.log
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# Environments 
+.dj_first
+.dj_first 
+dj_first/ 
+dj_first/ 
+dj_first/ 
+dj_first.bak/ 
+dj_first.bak/ 
